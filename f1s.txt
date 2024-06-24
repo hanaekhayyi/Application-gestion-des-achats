@@ -1,0 +1,7 @@
+1 Macbook pro 99997800
+2 Macbook air 100000000
+3 Asus Rog 99999500
+4 Iphone pro 99999300
+5 Iphone normal 99998400
+6 Ipad pro 99999001
+7 Sumsung ultra 99998800

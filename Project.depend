@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1701179170 source:c:\users\othma\onedrive\bureau\project c\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"anything.h"
+
+1701179077 c:\users\othma\onedrive\bureau\project c\project\anything.h
+

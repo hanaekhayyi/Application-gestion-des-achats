@@ -1,0 +1,6 @@
+1 Capuche over 25 300 250 3
+2 T-shirt over 20 404 200 4
+3 Veste tissu 30 399 150 1
+4 Blazer coupe 50 64 50 0
+5 Jaquette denim 30 50 40 0
+6 Manteau coupe 600 70 40 0

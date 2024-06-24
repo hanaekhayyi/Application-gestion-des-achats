@@ -1,0 +1,3 @@
+fauteuil 22
+chaise 9
+meuble 2

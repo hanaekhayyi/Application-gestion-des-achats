@@ -1,0 +1,6 @@
+1 chaise TESLA 602
+2 meuble ADORE 900
+3 sofa WARWICK 600
+4 fauteuil MABELLE 2556
+5 canape MARANELLO 3002
+6 lit MUNDI 18902

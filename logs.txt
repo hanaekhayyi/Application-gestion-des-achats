@@ -1,0 +1,8 @@
+Admins :
+othman 0000
+hanae  1111
+
+Fournisseurs :
+fournisseur1 1111 -> Electronique
+fournisseur2 2222 -> Meuble
+fournisseur3 3333 -> Vetement
